@@ -1,4 +1,4 @@
-/*
+ /*
  * The following goog.* methods are adapted from the Google closure toolkit
  * See http://closure-library.googlecode.com/ for the full closure library
  */
@@ -2067,7 +2067,7 @@ main.GOOD_SPRITE_PAIRINGS = [
 ];
 
 main.STANDARD_FRAMES_PER_SECONDS = [
-  5, 10, 15, 24, 25, 30, 48, 60, 90, 120
+  5, 10, 12, 15, 24, 25, 30, 48, 50, 60, 80, 90, 120, 144, 165, 180, 240
 ];
 
 main.STANDARD_VELOCITY_PER_SECONDS = [
